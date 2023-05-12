@@ -1,4 +1,4 @@
-# GPT for coders. Most useful cases
+# GPT for programmers. Most useful cases
 
 ### RegEx generation
 
