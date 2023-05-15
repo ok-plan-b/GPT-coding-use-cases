@@ -22,6 +22,16 @@
 
 ### Help finding right libraries or modules for the job
 
-### Rubber duck debugging / peer review
+### Rubber duck debugging, peer review
 
 ### Deobfuscation, providing meaningful names for vars, functions
+
+### Explaining debug and error messages, logs
+
+### UML diagrams to code
+
+### Covering code, components with test cases
+
+### Uncovering potential bottlenecks
+
+### Quick 'sketching' to provide MVP
